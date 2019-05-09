@@ -23,6 +23,8 @@ used to create virtual rooms, virtual posters and workshop areas that can be han
 (Aframe)[https://aframe.io/] is a simple javascript library designed to allow you to make amazing web VR experiences using 
 few lines of HTML.
 
+Below is the basic example and what it produces
+
 ```
 <html>
   <head>
@@ -39,17 +41,18 @@ few lines of HTML.
   </body>
 </html>
 ```
+![Introduction Example](Capture.PNG)
 
 ## Final Product
 
-The p
+After inserting other scripts, adding post processing, adding and placing models and animations, the (final product)[https://enter-tech-room.glitch.me/] is as shown below.
 
-![Main Menu, With Music Playing](Slide01.png)
+![Final Product](Capture.PNG)
 
 ## Acknolwedgements
 
 Many Thanks to the following artists for their 3D models.
 
-(antonmoek)[https://sketchfab.com/3d-models/low-poly-helicopter-5bbed2de9baa4a13a7faa72653b78b64]
-(Alan Zimmerman)[https://poly.google.com/view/emG0dq38D8f]
-(Poly by Google)[https://poly.google.com/view/bvd33G7Q66m]
+* (antonmoek)[https://sketchfab.com/3d-models/low-poly-helicopter-5bbed2de9baa4a13a7faa72653b78b64]
+* (Alan Zimmerman)[https://poly.google.com/view/emG0dq38D8f]
+* (Poly by Google)[https://poly.google.com/view/bvd33G7Q66m]
