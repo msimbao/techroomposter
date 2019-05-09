@@ -2,9 +2,6 @@
 
 A simple 3D orbiting poster made using assets from google poy and sketchfab.
 
-![Full Wall Light Prototype. Emits light from the top](main.jpg)
-
-
 ## Work
 
 I currently work in the tech room of the (idea lab)[https://www.macalester.edu/entrepreneurship/idealab/#/0] at Macalester College and my work involves encouraging students to take
@@ -56,3 +53,4 @@ Many Thanks to the following artists for their 3D models.
 * (antonmoek)[https://sketchfab.com/3d-models/low-poly-helicopter-5bbed2de9baa4a13a7faa72653b78b64]
 * (Alan Zimmerman)[https://poly.google.com/view/emG0dq38D8f]
 * (Poly by Google)[https://poly.google.com/view/bvd33G7Q66m]
+* (rommalart)[https://sketchfab.com/3d-models/awesome-mix-guardians-of-the-galaxy-69f902be71564c39bd56c7a885e3426c]
