@@ -38,7 +38,7 @@ Below is the basic example and what it produces
   </body>
 </html>
 ```
-![Introduction Example](Introduction.PNG)
+![Introduction Example](introduction.PNG)
 
 ## Final Product
 
